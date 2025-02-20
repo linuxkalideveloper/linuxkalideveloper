@@ -30,7 +30,6 @@
 
 ### 📫 Connect With Me  
 🔗 **GitHub:** [github.com/linux-kalideveloper](https://github.com/linux-kalideveloper)  
-🔗 **LinkedIn:** [linkedin.com/in/sumitkumargarsa](https://linkedin.com/in/sumitkumargarsa)  
 
 💡 **Always learning, always securing!** Let’s connect and collaborate. 🚀  
 
