@@ -29,7 +29,7 @@
 ---
 
 ### 📫 Connect With Me  
-🔗 **GitHub:** [github.com/linux-kalideveloper](https://github.com/linux-kalideveloper)  
+🔗 **GitHub:** [github.com/linux-kalideveloper](https://github.com/linuxkalideveloper)  
 
 💡 **Always learning, always securing!** Let’s connect and collaborate. 🚀  
 
